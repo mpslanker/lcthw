@@ -2,7 +2,8 @@
 
 int main(int argc, char *argv[])
 {
-    puts "Hello, world!";
+
+    // Do something here.
 
     return 0;
 }
