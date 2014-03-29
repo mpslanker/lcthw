@@ -1,2 +1,4 @@
-This is a git repo of the Learn C the Hard Way book/course.
-There is a branch for each exercise that makes changes to the files.
+### Learn C the Hard Way
+---
+This is a git repo that will hold all of my files from the exercises.
+Each exercise will have its own branch.
